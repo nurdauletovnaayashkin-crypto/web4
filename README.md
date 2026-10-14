@@ -1,7 +1,5 @@
 # Assignment #4. Forms and Validation
-Student: Ayazhan [Surname]  
-Group: [Group]  
-Live site: https://YOUR-USERNAME.github.io/YOUR-REPO/
+Student: Ayazhan 
 ## Description
 Multi-page website about HTML forms, Bootstrap 5 and form validation (sky blue design with floating bubbles and flowers).
 | Page | Tasks |
