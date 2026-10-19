@@ -17,28 +17,6 @@ body {
   overflow-x: hidden;
 }
 
-#bg {
-  position: fixed;
-  inset: 0;
-  overflow: hidden;
-  pointer-events: none;
-  z-index: 0;
-}
-
-
-.flower {
-  filter: drop-shadow(0 3px 6px rgba(225, 29, 72, 0.5));
-}
-
-.star {
-  filter: drop-shadow(0 0 8px rgba(255, 220, 120, 0.9));
-}
-
-@keyframes float {
-  to {
-  }
-}
-
 nav, .navbar-custom {
   position: sticky;
   top: 0;
